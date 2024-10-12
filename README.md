@@ -3,6 +3,7 @@
 ||----------------------------------------------------------------------------------------||
 
 Writing Assignment1:
+
 One example of a software that I personally found very well designed is Minecraft.
 
 When I think how complicated this game is in both ways, the coding and the design, it’s 
@@ -26,6 +27,7 @@ same time.
 
 
 ||----------------------------------------------------------------------------------------||
+
 Writing Assignment2:
 
 The requirements gathering stage is when the developers and the clients work together to know 

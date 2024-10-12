@@ -1,7 +1,4 @@
-# hello-world
-
-
-The requirements gathering stage is when the developers and the clients work together to know 
+# The requirements gathering stage is when the developers and the clients work together to know 
 exactly what they want the software to do to make sure the user have the best experience using the 
 software , and another reason that make this step is really important because it helps make sure 
 the software is useful and solves the right problems and to work as the clients need. By use the 
@@ -19,3 +16,6 @@ As a player , I want to switch between different game modes so that I can choose
 like survival or creative mods.
 As a player , I want to switch the difficulty in the game so that I can choose how hard I want the 
 game to be.
+
+
+

@@ -55,3 +55,31 @@ As a player , I want to switch the difficulty in the game so that I can choose h
 game to be.
 
 
+||----------------------------------------------------------------------------------------||
+
+Writing Assignment3:
+
+Name: Ali Muqedi
+
+Age: 21
+
+Occupation: University student
+
+Location: Mississauga , Ontario , Canada
+
+Biography: Ali is a university student who started playing Minecraft with his cousins and friends since he was 12 years old , he loves the journey and the creativity Minecraft provide and have fun building  detailed houses or structures and exploring new biomes. He play Minecraft on his personal computer and prefers hardcore mode or  PVP player versus player. for him Minecraft is the gate to escape from the stress of reality and school in general , he often plays with his cousins and his other friends so  they can builds and fights for their life inside the game , or to have a competitive tournaments to know how is the best in the game .
+
+Motivations: interaction with his friends , having fun , and relaxation
+
+Frustrations: Difficulty to contact his cousins since they live in different country and the time gape between them , poor connection  and lag since the servers does not support multiple countries when playing online.
+
+Short term Goals: build a big house for everyone with his friend , mining iron and diamond to create good gear for him self and his friend .
+
+Long term Goals: learn redstone circuits to create an automatic farms to make the game easier .
+
+Behavior Patterns:  Plays for about five hour in the weekend only with his friend  mostly playing the hardcore or they go to the pvp servers.
+
+
+
+
+

@@ -79,6 +79,15 @@ Long term Goals: learn redstone circuits to create an automatic farms to make th
 
 Behavior Patterns:  Plays for about five hour in the weekend only with his friend  mostly playing the hardcore or they go to the pvp servers.
 
+||----------------------------------------------------------------------------------------||
+
+Writing Assignment4:
+
+Good communication is a vital ingredient in software design, as it keeps everybody aligned, resolves issues quicker, and will keep the project running smoothly. During this design process, effective communication will go a long way in simplifying complex ideas into clear, actionable tasks that minimize risks of mistakes or misunderstandings. If the communication is not effective, then even minor misinterpretations may lead to problems that could delay the project or lead to errors in the software. Three very important ingredients for effective communication are clarity, active listening, and timely feedback. Clarity ensures that everyone has understood what needs to be done in the project and in what way without any misunderstanding or miscommunication. Active listening includes giving attention to each other's ideas and problems, which helps people to work in a team atmosphere much more easily. When everyone is being listened to, all those perspectives are so much easier to sort out to improve the final product. Timely feedback is also crucial because it allows the team to make early adjustments before a small issue can balloon into a major problem.
+
+In one project, my team and I experienced delays in communicating about tasks that were at fault. All of us thought that somebody else would test a big feature, and it was a crazy rush right before our deadline. I think, upon reflection, that was where I should have suggested a brief meeting to iron out responsibilities and timelines to avoid confusion. If we had done so, we would have ended up working more effectively, without the rush at the end. I learned from this experience that proactive communication is very important, particularly in team projects involving software design. Going forward, I will strive to make sure that I communicate as clearly as possible and that check-ins are more frequent so that everyone is clear about their responsibilities and we all continue to head in the same direction.
+
+
 
 
 
